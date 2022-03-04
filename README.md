@@ -1,3 +1,4 @@
+<!-- This READM is based on the BEST-README-Template (https://github.com/othneildrew/Best-README-Template) -->
 <div id="top"></div>
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
@@ -25,18 +26,18 @@
 [![Discord][discord-shield]][discord-url]
 [![StackExchange][stackexchange-shield]][stackexchange-url]
 <!-- Add additional Badges. Some examples >
-![Format Badge](https://github.com/{org}/{repo}/workflows/Format/badge.svg "Format Badge")
-![Audit Badge](https://github.com/{org}/{repo}/workflows/Audit/badge.svg "Audit Badge")
-![Clippy Badge](https://github.com/{org}/{repo}/workflows/Clippy/badge.svg "Clippy Badge")
-![BuildBadge](https://github.com/{org}/{repo}/workflows/Build/badge.svg "Build Badge")
-![Test Badge](https://github.com/{org}/{repo}/workflows/Test/badge.svg "Test Badge")
-![Coverage Badge](https://coveralls.io/repos/github/{org}/{repo}/badge.svg "Coverage Badge")
+![Format Badge](https://github.com/iotaledger/template/workflows/Format/badge.svg "Format Badge")
+![Audit Badge](https://github.com/iotaledger/template/workflows/Audit/badge.svg "Audit Badge")
+![Clippy Badge](https://github.com/iotaledger/template/workflows/Clippy/badge.svg "Clippy Badge")
+![BuildBadge](https://github.com/iotaledger/template/workflows/Build/badge.svg "Build Badge")
+![Test Badge](https://github.com/iotaledger/template/workflows/Test/badge.svg "Test Badge")
+![Coverage Badge](https://coveralls.io/repos/github/iotaledger/template/badge.svg "Coverage Badge")
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <a href="https://github.com/dr-electron/iota-template">
+    <a href="https://github.com/iotaledger/template">
         <img src="banner.png" alt="Banner">
     </a>
     <h3 align="center">project_title</h3>
@@ -46,9 +47,9 @@
         <a href="https://wiki.iota.org"><strong>Explore the docs »</strong></a>
         <br />
         <br />
-        <a href="https://github.com/dr-electron/iota-template/issues">Report Bug</a>
+        <a href="https://github.com/iotaledger/template/labels/bug">Report Bug</a>
         ·
-        <a href="https://github.com/dr-electron/iota-template/issues">Request Feature</a>
+        <a href="https://github.com/iotaledger/template/labels/request">Request Feature</a>
     </p>
 </div>
 
@@ -125,7 +126,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/dr-electron/iota-template.git
+   git clone https://github.com/iotaledger/template.git
    ```
 3. Install NPM packages
    ```sh
@@ -159,7 +160,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Feature 3
     - [ ] Nested Feature
 
-See the [open issues](https://github.com/dr-electron/iota-template/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/iotaledger/template/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -197,7 +198,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/dr-electron/iota-template](https://github.com/dr-electron/iota-template)
+Project Link: [https://github.com/iotaledger/template](https://github.com/iotaledger/template)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -216,16 +217,16 @@ Project Link: [https://github.com/dr-electron/iota-template](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/dr-electron/iota-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/dr-electron/iota-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/dr-electron/iota-template.svg?style=for-the-badge
-[forks-url]: https://github.com/dr-electron/iota-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/dr-electron/iota-template.svg?style=for-the-badge
-[stars-url]: https://github.com/dr-electron/iota-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/dr-electron/iota-template.svg?style=for-the-badge
-[issues-url]: https://github.com/dr-electron/iota-template/issues
-[license-shield]: https://img.shields.io/github/license/dr-electron/iota-template.svg?style=for-the-badge
-[license-url]: https://github.com/dr-electron/iota-template/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/iotaledger/template.svg?style=for-the-badge
+[contributors-url]: https://github.com/iotaledger/template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/iotaledger/template.svg?style=for-the-badge
+[forks-url]: https://github.com/iotaledger/template/network/members
+[stars-shield]: https://img.shields.io/github/stars/iotaledger/template.svg?style=for-the-badge
+[stars-url]: https://github.com/iotaledger/template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/iotaledger/template.svg?style=for-the-badge
+[issues-url]: https://github.com/iotaledger/template/issues
+[license-shield]: https://img.shields.io/github/license/iotaledger/template.svg?style=for-the-badge
+[license-url]: https://github.com/iotaledger/template/blob/main/LICENSE
 [discord-shield]: https://img.shields.io/badge/Discord-9cf.svg?style=for-the-badge&logo=discord
 [discord-url]: https://discord.iota.org
 [stackexchange-shield]: https://img.shields.io/badge/StackExchange-9cf.svg?style=for-the-badge&logo=stackexchange
