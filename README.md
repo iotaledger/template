@@ -56,6 +56,9 @@
 
 
 <!-- TABLE OF CONTENTS -->
+<!-- TODO 
+Edit the ToC to your needs. If your project is part of the wiki, you should link directly to the Wiki where possible and remove unneeded sections to prevent duplicates 
+-->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -86,12 +89,17 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `email_client`, `email`, `project_title`, `project_description`
+1. Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `iotaledger`, `template`, `twitter_handle`, `email_client`, `email`, `project_title`, `project_description`.
+2. Edit the README to suit your needs by searching for `TODO` and following the instructions here.
+3. Replace the `banner.png` with your own banner or remove it.
+4. Edit the issue and pull request templates if needed. Keep in mind that the issue forms in this template add a `bug`/`request` label to the issues. Make sure they exist.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+<!-- TODO
+This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples:
+-->
 ### Built With
 
 * [Next.js](https://nextjs.org/)
@@ -187,7 +195,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the Apache License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
