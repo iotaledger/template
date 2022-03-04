@@ -92,7 +92,7 @@ Edit the ToC to your needs. If your project is part of the wiki, you should link
 1. Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `iotaledger`, `template`, `twitter_handle`, `email_client`, `email`, `project_title`, `project_description`.
 2. Edit the README to suit your needs by searching for `TODO` and following the instructions here.
 3. Replace the `banner.png` with your own banner or remove it.
-4. Edit the issue and pull request templates if needed. Keep in mind that the issue forms in this template add a `bug`/`request` label to the issues. Make sure they exist.
+4. Edit the issue and pull request templates if required. Keep in mind that the issue forms in this template add a `bug`/`request` label to the issues. Make sure they exist.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
