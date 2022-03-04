@@ -1,0 +1,4 @@
+blank_issues_enabled: false
+    - name: Join our Discord
+      url: https://discord.iota.org/
+      about: Chat with the devs and the IF community
