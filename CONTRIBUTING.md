@@ -114,7 +114,7 @@ Before submitting a pull request, please follow these steps to have your contrib
 
 
 <!-- TODO
-Add project specifi requirements like formatting, linting, tests, comments, license and so on
+Add project specific requirements like formatting, linting, tests, comments, license and so on
 -->
 
 ### Submitting a pull request
