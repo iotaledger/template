@@ -4,7 +4,7 @@
 
 ## Links to any relevant issues
 
-<!-- Be sure to reference any related issues by adding `fixes issue #`. -->
+<!-- Be sure to reference any related issues by adding `fixes #issue_number`. -->
 
 ## Type of change
 
