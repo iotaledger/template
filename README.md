@@ -44,7 +44,7 @@
     <p align="center">
         project_description
         <br />
-        <a href="https://wiki.iota.org"><strong>Explore the docs »</strong></a>
+        <a href="https://docs.iota.org"><strong>Explore the docs »</strong></a>
         <br />
         <br />
         <a href="https://github.com/iotaledger/template/labels/bug">Report Bug</a>
@@ -57,7 +57,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <!-- TODO 
-Edit the ToC to your needs. If your project is part of the wiki, you should link directly to the Wiki where possible and remove unneeded sections to prevent duplicates 
+Edit the ToC to your needs. If your project is part of the docs, you should link directly to the docs where possible and remove unneeded sections to prevent duplicates 
 -->
 <details>
   <summary>Table of Contents</summary>
